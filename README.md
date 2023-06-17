@@ -1,11 +1,11 @@
-About r-blme
-============
+About r-blme-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-blme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/vdorie/blme
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-blme-feedstock/blob/main/LICENSE.txt)
 
 Summary: Maximum a posteriori estimation for linear and generalized linear mixed-effects models in a Bayesian setting. Extends 'lme4' by Douglas Bates, Martin Maechler, Ben Bolker, and Steve Walker.
 
