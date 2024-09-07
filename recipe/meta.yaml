@@ -1,4 +1,4 @@
-{% set version = "1.0-5" %}
+{% set version = "1.0-6" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,11 +9,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/blme_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/blme/blme_{{ version }}.tar.gz
-  sha256: 679a4f19d34a584c2390ffab37810a31f6834b913fceaa2409d297ccdf912310
+  sha256: 0608978044a00d0baaf09a694dc6edeac59dbfa373c4548e4ebbe335345c173e
 
 build:
   noarch: generic
-  number: 3
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
